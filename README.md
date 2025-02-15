@@ -37,6 +37,3 @@ Swing (JFrame, JTextField, JButton, JPanel) for UI
   ![image](https://github.com/user-attachments/assets/07bead0b-f56c-4883-b5e5-81f9a319ba1f)
 </div>
 
-**📜 License**
-
-This project is open-source and available under the MIT License.
