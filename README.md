@@ -1,4 +1,4 @@
-**🖩 Simple Java Calculator**
+# Simple Java Calculator
 
 A basic calculator built using Java Swing, featuring a user-friendly graphical interface that supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
@@ -37,3 +37,31 @@ Swing (JFrame, JTextField, JButton, JPanel) for UI
   ![image](https://github.com/user-attachments/assets/07bead0b-f56c-4883-b5e5-81f9a319ba1f)
 </div>
 
+
+# Simple To-Do List App
+
+A basic To-Do List application built with Java Swing.
+
+**📌 Features**
+- Add tasks
+- Remove selected tasks
+- Clear all tasks
+- Simple and user-friendly interface
+
+**🚀 How to Run**
+1. Compile the code:
+   ```sh
+   javac ToDoListApp.java
+   ```
+2. Run the application:
+   ```sh
+   java ToDoListApp
+   ```
+
+**🖼️ Screenshot**
+
+<div align="center">
+  
+  ![image](https://github.com/user-attachments/assets/ccae7b43-0519-4992-a41b-94535bb09000)
+
+</div>
