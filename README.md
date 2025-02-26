@@ -50,10 +50,12 @@ A basic To-Do List application built with Java Swing.
 
 **🚀 How to Run**
 1. Compile the code:
+
    ```sh
    javac ToDoListApp.java
    ```
-2. Run the application:
+3. Run the application:
+
    ```sh
    java ToDoListApp
    ```
